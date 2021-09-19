@@ -1,0 +1,17 @@
+{
+  "name": "backgrounds",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.2.0",
+    "supertest": "^6.1.6"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@tinyhttp/app": "^2.0.4"
+  }
+}
