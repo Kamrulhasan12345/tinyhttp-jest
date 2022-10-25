@@ -6,7 +6,7 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.2.0",
-    "supertest": "^6.1.6"
+    "supertest": "^6.3.1"
   },
   "scripts": {
     "test": "jest"
