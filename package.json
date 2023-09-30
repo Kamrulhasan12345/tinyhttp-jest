@@ -12,6 +12,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "@tinyhttp/app": "^2.0.4"
+    "@tinyhttp/app": "^2.2.0"
   }
 }
